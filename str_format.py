@@ -1,3 +1,5 @@
+# String format example
+
 age = 28
 name = 'Ramaraja'
 
