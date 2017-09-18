@@ -1,0 +1,7 @@
+-  ram:
+    name: Ramaraja
+    job: Developer
+    skills:
+      - python
+      - openstack
+      - django
