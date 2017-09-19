@@ -1,6 +1,6 @@
 # variable args demo
 
-def total(initial=5, *numbers, **keywords):
+def total(*numbers, **keywords):
 	count = initial
 	for number in numbers:
 		count += number
